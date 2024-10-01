@@ -1,8 +1,8 @@
 # Research Group
 
 ## About Us
--湖南科技大学硬件安全实验室专注于侧信道攻防、芯片异常检测等领域的研究，团队成员主要来自湖南科技大学物理与电子信息物理与电子科学学院、计算机科学与工程学院、商学院等。
--We are a dedicated research group from Hunan University of Science and Technology focused on Side-Channel Attacks. Our team includes experts in various fields, working together to drive innovation.
+- 湖南科技大学硬件安全实验室专注于侧信道攻防、芯片异常检测等领域的研究，团队成员主要来自湖南科技大学物理与电子信息物理与电子科学学院、计算机科学与工程学院、商学院等。
+- We are a dedicated research group from Hunan University of Science and Technology focused on Side-Channel Attacks. Our team includes experts in various fields, working together to drive innovation.
 
 ---
 ## 团队负责人
@@ -21,7 +21,7 @@
 - **Position**: Leader Researcher.
 - **Research Interests**: Side-Channel Attacks, Deep-Learning based Applications, etc.
 - **Description**:
--Huanyu Wang was born in Jinchang city, Gansu Province, China, in 1995. He received the Ph.D. and M.S. degree in Information and Communication Technology from KTH Royal Institute of Technology, Stockholm, Sweden, in 2023 and the B.S. degree in Electronic Information Engineering from Dalian University of Technology, Dalian, China. He is currently an Associate Professor at the School of Computer Science and Engineering at Hunan University of Science and Technology. His current research interest includes hardware security, side-channel analysis and deep learning based applications.
+- Huanyu Wang was born in Jinchang city, Gansu Province, China, in 1995. He received the Ph.D. and M.S. degree in Information and Communication Technology from KTH Royal Institute of Technology, Stockholm, Sweden, in 2023 and the B.S. degree in Electronic Information Engineering from Dalian University of Technology, Dalian, China. He is currently an Associate Professor at the School of Computer Science and Engineering at Hunan University of Science and Technology. His current research interest includes hardware security, side-channel analysis and deep learning based applications.
 
 ---
 
