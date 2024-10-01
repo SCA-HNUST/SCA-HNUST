@@ -70,10 +70,10 @@
 
 ## 近期成果
 ## Recent Publications
-1. **Improving IIoT Security: Unveiling Threats Through Advanced Side-Channel Analysis** - [Link to Paper][(URL)](https://www.sciencedirect.com/science/article/pii/S0167404824004401) - Elsevier Computers & Security (COSE, 2024).
-2. **A Comprehensive Side-Channel Leakage Assessment of CRYSTALS-Kyber in IIoT** - [Link to Paper]([URL](https://www.sciencedirect.com/science/article/pii/S2542660524002725)) - Elsevier Internet of Things (IoT, 2024).
-3. **Thermal Infrared Action Recognition with Two-Stream Shift Graph Convolutional Network** - [Link to Paper]([URL](https://link.springer.com/article/10.1007/s00138-024-01550-2)) - Springer Machine Vision and Applications (MVA, 2024).
-4. **Amplitude-Modulated EM Side-Channel Attack on Provably Secure Masked AES** - [Link to Paper]([URL](https://link.springer.com/article/10.1007/s13389-024-00347-3)) - Springer Journal of Cryptographic Engineering (JCEN, 2024).
+1. **Improving IIoT Security: Unveiling Threats Through Advanced Side-Channel Analysis** - [(URL)](https://www.sciencedirect.com/science/article/pii/S0167404824004401) - Elsevier Computers & Security (COSE, 2024).
+2. **A Comprehensive Side-Channel Leakage Assessment of CRYSTALS-Kyber in IIoT** - [(URL)](https://www.sciencedirect.com/science/article/pii/S2542660524002725)) - Elsevier Internet of Things (IoT, 2024).
+3. **Thermal Infrared Action Recognition with Two-Stream Shift Graph Convolutional Network** - [(URL)](https://link.springer.com/article/10.1007/s00138-024-01550-2)) - Springer Machine Vision and Applications (MVA, 2024).
+4. **Amplitude-Modulated EM Side-Channel Attack on Provably Secure Masked AES** - [(URL)](https://link.springer.com/article/10.1007/s13389-024-00347-3)) - Springer Journal of Cryptographic Engineering (JCEN, 2024).
 
 ---
 
