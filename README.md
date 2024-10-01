@@ -18,7 +18,7 @@
 - Junnian Wang received the bachelor’s degree from the Department of Modern Physics, Lanzhou University, in 1991, the master’s degree in radio physics from the School of Information Science and Engineering, Lanzhou University, in 2000, and the Ph.D. degree in control theory and control engineering from the School of Information Science and Engineering, Central South University, in 2006. He has undertaken four projects of the National Natural Science Foundation of China and more than ten other provincial and ministerial level research projects. He has published more than 50 scientific papers, including more than 20 SCI/EI papers. His research interests include deep learning, intelligent information processing, and fault diagnosis. He received the Second Prize of Hunan Provincial Science and Technology Progress Award.
 
 ### 王焕宇博士，副教授
-### Assoc. Prof. Junnian Wang
+### Assoc. Prof. Huanyu Wang
 - **Position**: Leader Researcher.
 - **Research Interests**: Side-Channel Attacks, Deep-Learning based Applications, etc.
 - **Description**:
