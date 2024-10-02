@@ -1,8 +1,8 @@
-# 湖南科技大学硬件安全研究团队
-# HNUST Hardware Security Lab
+# 湖南科技大学智能装备实验室
+# HNUST Intelligent Systems Lab
 
 ## About Us
-- 湖南科技大学硬件安全实验室专注于侧信道攻防、芯片异常检测等领域的研究，团队成员主要来自湖南科技大学物理与电子信息物理与电子科学学院、计算机科学与工程学院、商学院等。
+- 湖南科技大学智能装备实验室专注于物联网终端智能化、侧信道攻防、芯片异常检测等领域的研究，团队成员主要来自湖南科技大学物理与电子信息物理与电子科学学院、计算机科学与工程学院、商学院等。
 - We are a dedicated research group from Hunan University of Science and Technology focused on Side-Channel Attacks. Our team includes experts in various fields, working together to drive innovation.
 
 ---
