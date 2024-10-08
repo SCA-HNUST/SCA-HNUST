@@ -66,6 +66,9 @@
 ### 郭富天
 - **Position**: Research Assistant
 
+### 季晖
+- **Position**: Research Assistant
+
 ---
 
 ## 近期成果
