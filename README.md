@@ -30,46 +30,63 @@
 
 ### 何达林
 - **Position**: Senior Researcher.
-- 职位
+- **职位**：高级研究员
 - **Research Interests**: Hardware Security, Side-Channel Analysis.
-- 
+- **研究方向**：硬件安全，测信道分析
 
 ### 黄子恬
 - **Position**: Senior Researcher
+- **职位**：高级研究员
 - **Research Interests**: Embedded Systems.
+- **研究方向**：嵌入式系统
 
 ### 曹碧佳
 - **Position**: Senior Researcher
+- **职位**：高级研究员
 - **Research Interests**: Deep Learning.
+- **研究方向**：深度学习
 
 ### 罗泽新
 - **Position**: Researcher.
+- **职位**：研究员
 - **Research Interests**: Side-Channel Analysis, Computer Vision.
+- **研究方向**：测信道分析，计算机视觉
 
 ### 欧阳淇祥
 - **Position**: Researcher
+- **职位**：研究员
 - **Research Interests**: Side-Channel Analysis, Computer Vision.
+- **研究方向**：测信道分析，计算机视觉
 
 ### 王晓霞
 - **Position**: Researcher
+- **职位**：研究员
 - **Research Interests**: Hardware Security, Side-Channel Analysis.
+- **研究方向**：硬件安全，测信道分析
 
 ### 周  超
 - **Position**: Researcher.
+- **职位**：研究员
 - **Research Interests**: Side-Channel Analysis, Computer Vision.
+- **研究方向**：测信道分析，计算机视觉
 
 ### 廖嘉乐
 - **Position**: Researcher.
+- **职位**：研究员
 - **Research Interests**: Deep Learning.
+- **研究方向**：深度学习
 
 ### 王子润
 - **Position**: Research Assistant
+- **职位**：研究助理
 
 ### 郭富天
 - **Position**: Research Assistant
+-  **职位**：研究助理
 
 ### 季晖
 - **Position**: Research Assistant
+-  **职位**：研究助理
 
 ---
 
