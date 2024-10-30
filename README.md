@@ -76,6 +76,12 @@
 - **Research Interests**: Deep Learning.
 - **研究方向**：深度学习
 
+### 刘明亮
+- **Position**: Researcher.
+- **职位**：研究员
+- **Research Interests**: Deep Learning， Computer Vision.
+- **研究方向**：深度学习，计算机视觉
+
 ### 王子润
 - **Position**: Research Assistant
 - **职位**：研究助理
