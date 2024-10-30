@@ -32,7 +32,7 @@
 - **Position**: Senior Researcher.
 - **职位**：高级研究员
 - **Research Interests**: Hardware Security, Side-Channel Analysis.
-- **研究方向**：硬件安全，测信道分析
+- **研究方向**：硬件安全，侧信道分析
 
 ### 黄子恬
 - **Position**: Senior Researcher
@@ -50,25 +50,25 @@
 - **Position**: Researcher.
 - **职位**：研究员
 - **Research Interests**: Side-Channel Analysis, Computer Vision.
-- **研究方向**：测信道分析，计算机视觉
+- **研究方向**：侧信道分析，计算机视觉
 
 ### 欧阳淇祥
 - **Position**: Researcher
 - **职位**：研究员
 - **Research Interests**: Side-Channel Analysis, Computer Vision.
-- **研究方向**：测信道分析，计算机视觉
+- **研究方向**：侧信道分析，计算机视觉
 
 ### 王晓霞
 - **Position**: Researcher
 - **职位**：研究员
 - **Research Interests**: Hardware Security, Side-Channel Analysis.
-- **研究方向**：硬件安全，测信道分析
+- **研究方向**：硬件安全，侧信道分析
 
 ### 周  超
 - **Position**: Researcher.
 - **职位**：研究员
 - **Research Interests**: Side-Channel Analysis, Computer Vision.
-- **研究方向**：测信道分析，计算机视觉
+- **研究方向**：侧信道分析，计算机视觉
 
 ### 廖嘉乐
 - **Position**: Researcher.
