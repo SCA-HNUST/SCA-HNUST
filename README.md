@@ -107,7 +107,9 @@
 4. **Amplitude-Modulated EM Side-Channel Attack on Provably Secure Masked AES** - [(URL)](https://link.springer.com/article/10.1007/s13389-024-00347-3)) - Springer Journal of Cryptographic Engineering (JCEN, 2024).
 
 ---
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text={TITLE}&fontSize=90&fontAlign=50&fontAlignY=70&desc={SUB_TITLE}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+</p>
 ## 联系方式
 ## Contact Us
 For inquiries, reach out to hnust_sca@163.com.
