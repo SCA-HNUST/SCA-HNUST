@@ -96,9 +96,13 @@
 ### 季晖
 - **Position**: Research Assistant
 -  **职位**：研究助理
+---
+## 常用软件
+<!-- https://github.com/tandpfun/skill-icons -->
+<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
+</p>
 
 ---
-
 ## 近期成果
 ## Recent Publications
 1. **Improving IIoT Security: Unveiling Threats Through Advanced Side-Channel Analysis** - [(URL)](https://www.sciencedirect.com/science/article/pii/S0167404824004401) - Elsevier Computers & Security (COSE, 2024).
@@ -110,4 +114,11 @@
 ## 联系方式
 ## Contact Us
 For inquiries, reach out to hnust_sca@163.com.
+<!-- https://github.com/kyechan99/capsule-render -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
+</p>
+
+---
+
 
