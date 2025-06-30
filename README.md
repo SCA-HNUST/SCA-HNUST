@@ -1,8 +1,8 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=湖南科技大学&fontSize=90&fontAlign=50&fontAlignY=30&desc=智能装备实验室&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
-# 湖南科技大学智能装备实验室
-# HNUST Intelligent Systems (HNUST-InteSys) Lab
+# 湖南科技大学智能信息处理课题组
+# HNUST Lab of Intelligent Systems and Applications (LISA)
 
 ## About Us
 - 湖南科技大学智能装备实验室专注于物联网终端智能化、侧信道攻防、芯片异常检测等领域的研究，团队成员主要来自湖南科技大学物理与电子信息物理与电子科学学院、计算机科学与工程学院、商学院等。
