@@ -111,7 +111,13 @@
 2. **A Comprehensive Side-Channel Leakage Assessment of CRYSTALS-Kyber in IIoT** - [(URL)](https://www.sciencedirect.com/science/article/pii/S2542660524002725)) - Elsevier Internet of Things (IoT, 2024).
 3. **Thermal Infrared Action Recognition with Two-Stream Shift Graph Convolutional Network** - [(URL)](https://link.springer.com/article/10.1007/s00138-024-01550-2)) - Springer Machine Vision and Applications (MVA, 2024).
 4. **Amplitude-Modulated EM Side-Channel Attack on Provably Secure Masked AES** - [(URL)](https://link.springer.com/article/10.1007/s13389-024-00347-3)) - Springer Journal of Cryptographic Engineering (JCEN, 2024).
-
+5. **Switch-T: Multi-Task Side-Channel Attack based on Continual Learning** - Journal of Information Security and Applications (JISA, 2025).
+6. **A Deep Graph Convolution Spatial-Temporal Attention Learning Model for Traffic Flow Prediction** - [(URL)](https://iopscience.iop.org/article/10.1088/1361-6501/add955/meta))-Measurement Science and Technology (MST, 2025).
+7. **Advanced Far Field EM Side-Channel Attack on AES** - ACM Asia Conference on Computer and Communications Security (AsiaCCS), Cyber-Physical System Security Workshop (CPSS, 2021).
+8. **Federated Learning in Side-Channel Analysis** - In International Conference on Information Security and Cryptology (ICISC,2021).
+9. **Tandem Deep Learning Side-Channel Attack on FPGA Implementation of AES** -SN Computer Science,  2021.
+10. **Far Field EM Side-Channel Attack on AES Using Deep Learning** - ACM SIGSAC Conference on Computer and Communications Security (CCS), Workshop on Attacks and Solutions in Hardware Security (ASHES,2020).
+11. **Multi-Source Training Deep-Learning Side-Channel Attacks** - IEEE International Symposium on Multiple-Valued Logic (ISMVL,2020).
 ---
 ## 联系方式
 ## Contact Us
